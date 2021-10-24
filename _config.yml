@@ -120,7 +120,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "cheriewongcy" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : #"cheriewongcy" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=e7ZBlIsAAAAJ" 
   pinterest        :
   soundcloud       :
