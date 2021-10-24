@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siu Lun Alan Chau"
+  name             : "Cheuk Yin Cherie Wong"
   avatar           : "/assets/images/propic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in Machine Learning"
+  bio              : "PhD student in Engingeering Science"
   location         : "University of Oxford"
   employer         : 
   email            : "alanchau@hotmail.co.uk"
