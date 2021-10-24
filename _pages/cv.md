@@ -18,15 +18,13 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **2021 - Present**<br>
-**University of Oxford**<br>
-DPhil in Engineering Science <br>
+**University of Oxford** | DPhil in Engineering Science <br>
 *Supervisor: Dr James Kwan* <br>
 • Research focus: Energy technology, acoustic cavitation, sonochemistry<br>
 •	Fully funded by EPSRC Studentship & Ramage Scholarship (Balliol College)<br>
 
 **2020 - 2021**<br>
-**University of Oxford**<br>
-MSc (by research) in Inorganic Chemistry <br>
+**University of Oxford** | MSc (by research) in Inorganic Chemistry <br>
 *Supervisor: Prof Edman Tsang* <br>
 • Research focus: Energy technology, green chemistry, hydrogen production, catalysis
 • Thesis title: In<sub>2</sub>Se<sub>3</sub>-based two-dimensional photocatalysts for water-splitting
