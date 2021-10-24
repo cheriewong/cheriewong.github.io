@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Cheuk Yin Cherie Wong"
-description              : "PhD student in Machine Learning"
+description              : "PhD student in Engineering Science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 # Site Author
 author:
   name             : "Cheuk Yin Cherie Wong"
-  avatar           : "/assets/images/propic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Application_Photograph.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in Engingeering Science"
   location         : "University of Oxford"
   employer         : 
-  email            : "alanchau@hotmail.co.uk"
+  email            : "cherie.wong@seh.ox.ac.uk"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -114,13 +114,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chau999"
+  github           : "cheriewong"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "Siu Lun Chau" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "cheriewongcy" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=e7ZBlIsAAAAJ" 
   pinterest        :
   soundcloud       :
