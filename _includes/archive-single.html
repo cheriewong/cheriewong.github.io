@@ -17,6 +17,7 @@
     <!-- Post the title -->
     {% if post.collection == 'teaching' %}
     <h3 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {{ title }}
     </h3>
     {% else %}
