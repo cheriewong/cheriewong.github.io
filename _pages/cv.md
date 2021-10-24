@@ -24,15 +24,14 @@ a.uline {text-decoration:underline;}
 •	Fully funded by EPSRC Studentship & Ramage Scholarship (Balliol College)<br>
 
 **2020 - 2021**<br>
-**University of Oxford** | MSc (by research) in Inorganic Chemistry <br>
+**University of Oxford** | MSc (by research) in Inorganic Chemistry<br>
 *Supervisor: Prof Edman Tsang* <br>
-• Research focus: Energy technology, green chemistry, hydrogen production, catalysis
+• Research focus: Energy technology, green chemistry, hydrogen production, catalysis<br>
 • Thesis title: In<sub>2</sub>Se<sub>3</sub>-based two-dimensional photocatalysts for water-splitting
 
 **2017 - 2020**<br>
-**Durham Univeristy**<br>
-BSc (Hons) in Chemistry (First Class)<br>
-•	Dissertation title: The importance of solid form in pharmaceuticals (Supervisor: Prof Jonathan Steed)
+**Durham Univeristy** | BSc (Hons) in Chemistry (First Class)<br>
+•	Dissertation title: The importance of solid form in pharmaceuticals (Supervisor: Prof Jonathan Steed)<br>
 •	Awardee of Departmental Chemistry Summer Bursaries & Employability Scholarships
 
 <!-- 
