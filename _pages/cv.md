@@ -17,22 +17,27 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**2018 - Present**<br>
+**2021 - Present**<br>
 **University of Oxford**<br>
-DPhil in Statistical Machine Learning <br>
-*Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
-•	Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning <br>
+DPhil in Engineering Science <br>
+*Supervisor: Dr James Kwan* <br>
+• Research focus: Energy technology, acoustic cavitation, sonochemistry<br>
+•	Fully funded by EPSRC Studentship & Ramage Scholarship (Balliol College)<br>
 
-
-**2017-2018**<br>
+**2020 - 2021**<br>
 **University of Oxford**<br>
-MMATH Mathematics and Statistics <br>
-•	First Class Honours, Ranked 2nd of the year
+MSc (by research) in Inorganic Chemistry <br>
+*Supervisor: Prof Edman Tsang* <br>
+• Research focus: Energy technology, green chemistry, hydrogen production, catalysis
+• Thesis title: In<sub>2</sub>Se<sub>3</sub>-based two-dimensional photocatalysts for water-splitting
 
-**2014-2017**<br>
-**University of Oxford**<br>
-BA Mathematics and Statistics (First Class)<br>
-•	First Class Honours, Ranked 1st of the year.
+**2017 - 2020**<br>
+**Durham Univeristy**<br>
+BSc (Hons) in Chemistry (First Class)<br>
+•	Dissertation title: The importance of solid form in pharmaceuticals (Supervisor: Prof Jonathan Steed)
+•	Awardee of Departmental Chemistry Summer Bursaries & Employability Scholarships
+
+<!-- 
 
 ## Industry experiences
 ---
@@ -51,18 +56,16 @@ BA Mathematics and Statistics (First Class)<br>
 •	Designed machine learning projects (e.g SnP500 time series analysis, Kickstarter product success rate model etc.) for [*KATE*](https://cambridgespark.com/kate/), a proprietary AI-powered learning and assessment platform for upskilling in Data Science. <br>
 •	Organised bootcamps for the Applied Data Science course where I taught modules on time series, Explainable AI and recommender systems. <br>
 
+-->
+
 ## University involvements
 ---
 
-**2019 - Present** <br>
-**Juvenate HK** | Advisor <br>
-•	Provided advices for growing and managing [*Juvenate*](https://www.linkedin.com/company/juvenate-hk/mycompany/), a consultancy for helping social enterprise and NGOs to deliver greater social impact. <br>
+**Aug 2021 - Present** <br>
+**[Engineers without Borders (Oxford)](https://www.ewbox.org/)** | Project Supervisor <br>
+•	Devised and supervised 10 undergraduate engineers a two-term project on recycling technology.<br>
 
-**2017 - 2019** <br>
-**[Oxford Strategy Group Digial](https://www.osgdigitallabs.com/)** | Co-founder, Managing Director <br>
-•	Launched and managed Oxford's first machine learning consultancy with over 50 consultants, with over 30% being DPhil students. <br>
-•	Pitched 6 projects to multinational clients and maintained a diverse portfolio ranging from FTSE100 companies to Tech startups such as P&G, Unilever, MedTech and banks. <br>
-•	Partnered with industrial players such as Quantum Black, BCG Gamma, OC&C and CambridgeSpark. <br>
+<!-- 
 
 ## Publications
 ---
@@ -77,7 +80,8 @@ BA Mathematics and Statistics (First Class)<br>
 
 •**Chau, Siu Lun**, Mihai Cucuringu, and Dino Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint arXiv:2005.04035 (2020) <br>
 
+-->
 
-## Language Proficiencies 
+## Language Proficiencies
 ---
-• English (IELTS: 8.0/9.0)    • Mandarin (Business level)    • Cantonese (Native)
+• English (fluent)    • Mandarin (fluent)    • Cantonese (native)
