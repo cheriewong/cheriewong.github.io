@@ -76,7 +76,7 @@ audio:not([controls]) {
 
 /* Add color to the links */
 
-a {
+a:link {
   color: #990000;
 }
 
@@ -92,11 +92,11 @@ a:hover {
   color: #002045;
 }
 
-/* Remove outline from links */
+// /* Remove outline from links */
 
-a:active {
-  outline: 0;
-}
+// a:active {
+//   outline: 0;
+// }
 
 /* Prevent sub and sup affecting line-height in all browsers */
 
