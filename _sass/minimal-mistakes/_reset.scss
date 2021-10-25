@@ -74,8 +74,10 @@ audio:not([controls]) {
   display: none;
 }
 
+/* Add color to the links */
+
 a {
-  color: $link-color;
+  color: #990000;
 }
 
 /* Apply focus state */
@@ -84,9 +86,14 @@ a:focus {
   @extend %tab-focus;
 }
 
+/* Add color when hovering to link */
+
+a:hover {
+  color: #002045;
+}
+
 /* Remove outline from links */
 
-a:hover,
 a:active {
   outline: 0;
 }
