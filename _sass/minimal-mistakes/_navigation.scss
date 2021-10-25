@@ -223,8 +223,6 @@
 
     a {
       position: relative;
-      color: #002045;
-      text-decoration: none;
 
       &:before {
         content: "";
@@ -232,7 +230,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #42bd5d;
+        background: #990000; /*change this color can change tehe animating link underlines*/
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -244,6 +242,7 @@
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); /* reveal*/
+        color: #990000
       }
     }
   }
