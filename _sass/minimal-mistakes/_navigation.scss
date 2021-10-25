@@ -236,13 +236,13 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0) translate3d(0, 0, 0);
         transform: scaleX(0) translate3d(0, 0, 0); /* hide*/
+        color: #990000
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); /* reveal*/
-        color: #990000
       }
     }
   }
