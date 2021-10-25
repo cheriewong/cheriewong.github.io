@@ -92,11 +92,12 @@ a:hover {
   color: #002045;
 }
 
-// /* Remove outline from links */
+/* Remove outline from links */
 
-// a:active {
-//   outline: 0;
-// }
+a:active {
+  outline: 0;
+  color: #002045;
+}
 
 /* Prevent sub and sup affecting line-height in all browsers */
 
