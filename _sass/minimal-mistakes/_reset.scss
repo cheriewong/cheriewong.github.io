@@ -76,8 +76,8 @@ audio:not([controls]) {
 
 /* Add color to the links */
 
-a:link {
-  color: #990000;
+a {
+  color: $link-color;
 }
 
 /* Apply focus state */
@@ -88,15 +88,9 @@ a:focus {
 
 /* Add color when hovering to link */
 
-a:hover {
-  color: #002045;
-}
-
-/* Remove outline from links */
-
+a:hover,
 a:active {
   outline: 0;
-  color: #002045;
 }
 
 /* Prevent sub and sup affecting line-height in all browsers */
