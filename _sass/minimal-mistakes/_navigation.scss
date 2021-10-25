@@ -15,8 +15,8 @@
   font-family: $sans-serif;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  -webkit-animation-delay: 1.0s;
-  animation-delay: 1.0s;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
 
   @include breakpoint($large) {
     padding-left: 1em;
@@ -223,6 +223,7 @@
 
     a {
       position: relative;
+      color: #002045;
 
       &:before {
         content: "";
