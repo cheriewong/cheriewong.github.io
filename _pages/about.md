@@ -27,4 +27,4 @@ style="float: left; margin-right: 10px;" -->
 
 I am a first-year PhD student at University of Oxford, supervised by [Dr James Kwan](https://www.kwanrg.org/). My research interests focus on energy-related technology, sonochemistry and acoustic cavitation. My PhD is generously funded by [EPSRC](https://epsrc.ukri.org/) and [Balliol College](https://www.balliol.ox.ac.uk/).
 
-I graduated from Durham University with a BSc (Hons) in Chemistry. Then, I progressed to read a MSc (by research) in Inorganic Chemistry at the University of Oxford under the supervision of [Prof Edman Tsang](https://tsang.web.ox.ac.uk/) to research photocatalytic water splitting.
+I graduated from Durham University with a BSc (Hons) in Chemistry. I progressed to read a MSc (by research) in Inorganic Chemistry at the University of Oxford under the supervision of [Prof Edman Tsang](https://tsang.web.ox.ac.uk/) to research photocatalytic water splitting.
