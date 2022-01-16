@@ -1,7 +1,7 @@
 ---
 title: "RKHS-SHAP: Shapley Values for Kernel Methods"
-collection: publications
-permalink: /publications/RKHSSHAP
+collection: research
+permalink: /research/RKHSSHAP
 excerpt: "We propose an efficient model-specific Shapley value estimation for Kernel methods. In addition, we propose a Shapley regulariser that allows modeller to control specific feature's contribution during learning."
 authors: "S. Chau, J. Gonzalez, D. Sejdinovic"
 date: 2021-10-19

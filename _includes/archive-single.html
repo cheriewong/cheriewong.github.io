@@ -30,8 +30,8 @@
       <div class="talk_date"><i class="far fa-clock" aria-hidden="true"></i> {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
       <div class="talk_venue"><i class="far fa-map"></i> {{ post.venue }}, {{ post.location }}</div>
 
-    <!-- Publications -->
-    {% elsif post.collection == 'publications' %}
+    <!-- Research -->
+    {% elsif post.collection == 'research' %}
     <div class="talk_venue">
       {% if post.venue == 'In Prep' %}
         <div><i> {{post.authors}} </i></div>      

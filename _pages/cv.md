@@ -21,7 +21,7 @@ a.uline {text-decoration:underline;}
 **University of Oxford** | DPhil in Engineering Science <br>
 *Supervisor: Dr James Kwan* <br>
 • Research focus: Energy technology, acoustic cavitation, sonochemistry<br>
-•	Fully funded by EPSRC Studentship & Ramage Scholarship (Balliol College)<br>
+•	Fully funded by EPSRC Studentship & Dervorguilla Scholarship (Balliol College)<br>
 
 **2020 - 2021**<br>
 **University of Oxford** | MSc (by research) in Inorganic Chemistry<br>
@@ -64,7 +64,7 @@ a.uline {text-decoration:underline;}
 
 <!-- 
 
-## Publications
+## Research
 ---
 
 • **S. L. Chau**, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
