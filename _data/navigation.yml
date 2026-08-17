@@ -1,21 +1,17 @@
 # main links
 main:
 
+  - title: "Articles"
+    url: /articles/
+
+  - title: "Talk"
+    url: /talks/
+
   - title: "Research"
     url: /research/
 
+  - title: "Side Projects"
+    url: /side-projects/
+
   - title: "CV"
     url: /cv/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-  
-  # - title: "Contact"
-  #   url: /contact/   
-   
-  # - title: "Talks"
-  #   url: /talks/
-
-  # - title: "Code"
-  #   url: /code/
-

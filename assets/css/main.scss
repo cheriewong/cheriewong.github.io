@@ -29,5 +29,120 @@
 }
 
 .cv_font {
-  font-size: .65em;
+  font-size: .9em;
+  line-height: 1.55;
+}
+
+.cv_font h2 {
+  margin: 2.2rem 0 .8rem;
+  padding-bottom: .35rem;
+  border-bottom: 2px solid #243b5a;
+  color: #243b5a;
+  font-size: 1.3rem;
+  letter-spacing: .035em;
+  text-transform: uppercase;
+}
+
+.cv_font h2 + hr {
+  display: none;
+}
+
+.cv_font h3 {
+  margin: 1.5rem 0 .15rem;
+  color: #286eae;
+  font-size: 1.08rem;
+}
+
+.cv_font h3 + p {
+  margin-top: .1rem;
+}
+
+.cv_font ul {
+  margin-top: .55rem;
+}
+
+.cv_font li {
+  margin-bottom: .35rem;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.portfolio-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.35rem;
+  border: 1px solid #d9dee5;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 5px 18px rgba(25, 43, 65, .06);
+}
+
+.portfolio-card h2 {
+  margin: .25rem 0 .7rem;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.portfolio-card__meta {
+  margin: 0;
+  color: #5e6a78;
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+}
+
+.portfolio-card__link {
+  margin-top: auto;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.article-card__image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border-radius: 7px;
+}
+
+.rights-note {
+  padding: 1rem 1.1rem;
+  border-left: 4px solid #2a6fbb;
+  background: #f4f7fb;
+  font-size: .88rem;
+}
+
+.research-banner {
+  width: 100%;
+  margin: 0 0 1.4rem;
+  padding: 1.4rem 1.55rem;
+  border: 1px solid #d9dee5;
+  border-left: 5px solid #2a6fbb;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 5px 18px rgba(25, 43, 65, .05);
+}
+
+.research-banner h2 {
+  margin: .3rem 0 .55rem;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
+.research-banner__authors {
+  margin: 0 0 .75rem;
+  color: #44515f;
+  font-size: .88rem;
+}
+
+.research-banner__note {
+  color: #5e6a78;
+  font-size: .78rem;
+  font-style: italic;
 }

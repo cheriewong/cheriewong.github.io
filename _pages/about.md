@@ -9,22 +9,16 @@ redirect_from:
 classes: wide
 ---
 
-<!-- <div style="float: left">
-Hi, I'm Alan :) I am a 2nd year DPhil student in Statistical Machine Learning at the University of Oxford. He is supervised by Professor Dino Sejdinovic, Professor Mihai Cucuringu and Professor Xiaowen Dong. His research interests lie within the intersection of Kernel methods with a variety of Machine Learning applications such as explainable AI, statistical downscaling, graph learning, causal inference and preference learning. Before his DPhil studies, he received a masters in Mathematics and Statistics from the University of Oxford.
-</div>
+## About me
 
-<div>
-<img src="assets/images/meow.jpg"
-     alt="meow icon"
-     style="float: right;"
-      />
-</div>
+I am a Technology Analyst specialising in hydrogen, sustainability, and emerging decarbonisation technologies. I am particularly interested in how scientific advances move beyond the laboratory: how technologies develop, where they can create meaningful impact, and what is needed for them to scale.
 
-style="float: left; margin-right: 10px;" -->
+My current work brings together technology scouting, primary research, quantitative modelling, and technical assessment. I focus on hydrogen and the broader energy transition by tracking how technologies, policy, supply chains, and industry are evolving. I enjoy translating complex scientific and engineering developments into clear perspectives on where a field is heading and why it matters.
 
+I hold a PhD in Chemical Engineering from the University of Oxford, supervised by [Professor James Kwan](https://www.kwanrg.org/), where I researched ultrasound-driven hydrogen generation from water splitting for sustainable energy applications. I developed new sonochemical reactor configurations and studied how acoustic cavitation can enable green hydrogen and syngas production. My PhD was fully funded by [EPSRC](https://epsrc.ukri.org/) and [Balliol College](https://www.balliol.ox.ac.uk/), including the Dervorguilla Scholarship and a Women in STEM Scholarship.
 
-## About Me
+My route into energy began with chemistry. I completed a first-class BSc (Hons) in Chemistry at Durham University, followed by an MSc by Research in Inorganic Chemistry at Oxford. There, I worked on photocatalytic water splitting, two-dimensional energy materials, catalysis, and green chemistry. This scientific background continues to shape how I assess emerging technologies: by understanding both the underlying mechanism and the practical barriers to adoption.
 
-I am a first-year PhD student at University of Oxford, supervised by [Dr James Kwan](https://www.kwanrg.org/). My research interests focus on energy-related technology, sonochemistry and acoustic cavitation. My PhD is generously funded by [EPSRC](https://epsrc.ukri.org/) and [Balliol College](https://www.balliol.ox.ac.uk/).
+I have also worked with early-stage climate and energy ventures through Creator Fund and Energy Revolution Ventures. My experience includes sourcing university spinouts, evaluating technical feasibility and scalability, conducting due diligence, and working with founders and researchers across the deep-tech ecosystem. Together, these experiences have given me a perspective that connects scientific research, technology development, entrepreneurship, investment, and the wider energy transition.
 
-I graduated from Durham University with a BSc (Hons) in Chemistry. I progressed to read a MSc (by research) in Inorganic Chemistry at the University of Oxford under the supervision of [Prof Edman Tsang](https://tsang.web.ox.ac.uk/) to research photocatalytic water splitting.
+Explore my [articles](/articles/), [research](/research/), and [talks](/talks/), or view my [CV](/cv/). For professional enquiries, email **c.wong [at] idtechex [dot] com** or [message me on LinkedIn](https://www.linkedin.com/in/cheriewongcy).
