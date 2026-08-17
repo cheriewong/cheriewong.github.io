@@ -61,6 +61,7 @@ Early-stage venture capital firm investing in clean-energy and climate-technolog
 ### University of Oxford — Oxford, UK
 **MSc by Research in Inorganic Chemistry** | October 2020 – December 2021
 
+- **Supervision:** Professor Edman Tsang.
 - Co-authored peer-reviewed research on materials characterisation and photocatalytic hydrogen systems.
 
 ### Durham University — Durham, UK
@@ -74,7 +75,7 @@ Early-stage venture capital firm investing in clean-energy and climate-technolog
 - **Ecosystem and scouting:** Technology scouting, startup evaluation, technology landscapes, supply-chain mapping, benchmarking, company profiling, and innovation-opportunity identification.
 - **Quantitative analysis:** Market forecasting, S-curve and learning-curve modelling, regression analysis, and financial-statement analysis.
 - **Energy domains:** Green and blue hydrogen, electrolysis, fuel cells, steam methane reforming (SMR), autothermal reforming (ATR), methane pyrolysis, carbon capture, utilisation and storage (CCUS), industrial decarbonisation, advanced materials, and catalysis.
-- **Languages and tools:** English (fluent), Cantonese (native), Mandarin (fluent); Microsoft Excel, MATLAB, Python, and BeautifulSoup.
+- **Languages and tools:** English (fluent), Cantonese (native), Mandarin (fluent); Microsoft Excel, MATLAB, and Python.
 
 ## Selected publications
 ---
