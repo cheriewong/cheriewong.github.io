@@ -59,13 +59,13 @@ Early-stage venture capital firm investing in clean-energy and climate-technolog
 - **Funding:** Women in STEM Scholar; Dervorguilla Scholarship, Balliol College; EPSRC DTP Scholarship.
 
 ### University of Oxford — Oxford, UK
-**MSc by Research in Inorganic Chemistry** | October 2020 – December 2021
+**MSc by Research in Inorganic Chemistry** | 2020–2021
 
-- **Supervision:** Professor Edman Tsang.
 - Co-authored peer-reviewed research on materials characterisation and photocatalytic hydrogen systems.
+- Supervised by Professor Edman Tsang.
 
 ### Durham University — Durham, UK
-**BSc (Hons) in Chemistry, First Class Honours** | October 2017 – June 2020
+**BSc (Hons) in Chemistry, First Class Honours** | 2017–2020
 
 - Graduated in the top 10% of the cohort.
 
