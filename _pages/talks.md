@@ -1,15 +1,34 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 classes: wide
 ---
 
-{% include base_path %}
+## Upcoming
 
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Speaker**, Hydrogen Technology World Expo, 20–22 October 2026, Hamburg, Germany.
 
----
+## Industry participation
+
+- World Hydrogen Summit 2026 (WHS 2026), 19–21 May 2026, Rotterdam, Netherlands.
+- China International Hydrogen Congress & Expo 2026 (CIHC 2026), 25–27 March 2026, Beijing, China.
+- SMART ENERGY WEEK 2026, 17–19 March 2026, Tokyo, Japan.
+- Hydrogen Technology World Expo 2025 (HTE 2025), 21–23 October 2025, Hamburg, Germany.
+
+## Conference presentations
+
+- **Lecture presentation**, 18th Meeting of the European Society of Sonochemistry (ESS18), 27–31 May 2024, Leuven, Belgium — presented in absentia.
+- **Lecture presentation**, [186th Meeting of the Acoustical Society of America and Acoustics Week in Canada (ASA186)](https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A346/3300896/Sono-catalytic-syngas-production-by-low), 13–17 May 2024, Ottawa, Canada.
+- **Lecture presentation**, [184th Meeting of the Acoustical Society of America (ASA184)](https://pubs.aip.org/asa/jasa/article/153/3_supplement/A73/2885469/Improving-sonochemical-efficiency-by-pulsing), 8–12 May 2023, Chicago, United States.
+- **Lecture presentation**, IOP Physical Acoustics Tutorial Day (PATD), 22 September 2023, London, UK.
+- **Lecture presentation**, IOP Physical Acoustics Tutorial Day (PATD), 8 October 2022, London, UK.
+- **Lecture presentation**, 22nd International Symposium on Nonlinear Acoustics (ISNA22), 4–8 July 2022, Oxford, UK.
+
+## Workshops, invited events, and poster presentations
+
+- **Invited event**, Industry Meets Academia Day, ZERO Institute, 2 May 2024, Oxford, UK.
+- **Workshop**, Oxford Chemical Engineering Workshop, 20–21 April 2023, Oxford, UK.
+- **Poster**, IChemE Young Engineers Awards for Innovation and Sustainability (YEAIS), 28 June 2024, Rugby, UK.
+- **Poster**, Graduate Joint Consultative Committee (GJCC), 9 June 2022, Oxford, UK.

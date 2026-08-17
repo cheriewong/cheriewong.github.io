@@ -7,78 +7,78 @@ redirect_from:
   - /resume
 ---
 
-<style>
-a.uline {text-decoration:underline;}
-</style>
+## Professional summary
+---
 
-{% include base_path %}
+Innovation, technology scouting, and market insights analyst with an Oxford PhD in Chemical Engineering, combining deep energy expertise with market intelligence and startup ecosystem experience. Skilled at evaluating emerging technologies, identifying opportunities and potential partners, and connecting technical evidence with market dynamics to guide innovation and investment decisions.
 
-<!-- <a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
+[LinkedIn](https://www.linkedin.com/in/cheriewongcy) · **c.wong [at] idtechex [dot] com**
+
+## Experience
+---
+
+### IDTechEx — Cambridge, UK
+**Technology Analyst — Hydrogen, Material & Sustainability** | September 2025 – Present
+
+Independent market research and consulting firm specialising in emerging technologies across energy, electronics, and materials.
+
+- Scope and lead-author market intelligence reports on hydrogen, fuel cells, and ammonia, analysing how technology, policy, regulation, and commercial activity shape global and regional market development.
+- Scout innovative technologies and analyse hydrogen supply chains, identifying technology providers, startups, suppliers, potential partners, and end users. Produce company profiles benchmarking technical performance, competitive positioning, commercial maturity, and financial performance.
+- Conduct targeted primary research at international conferences across Europe and Asia-Pacific to map technology and market landscapes and address knowledge gaps through stakeholder engagement.
+- Use AI-enabled and automated research tools, including a Python and BeautifulSoup exhibitor-scouting pipeline that structures conference data and prioritises technology innovators and startups.
+- Build bottom-up 10-year forecasts of hydrogen production capacity and market size, maintain cost trackers, and apply S-curve and learning-curve models to assess adoption, cost reduction, and commercial opportunities.
+- Translate research into market insight articles, webinars, and client presentations tailored to business development, venture, and innovation teams.
+
+### Creator Fund — Oxford, UK
+**Energy Investment Lead & Oxford Team Lead** | October 2022 – June 2025
+
+UK and Europe student-led pre-seed venture capital fund investing in university deep-tech startups.
+
+- Drove external engagement and led the end-to-end planning and delivery of a startup pitch night, building relationships across the university innovation ecosystem and improving internal deal tracking and knowledge sharing.
+- Sourced and screened more than 100 early-stage deep-tech opportunities, including researchers pursuing company formation and university spinouts.
+- Conducted technical and commercial evaluations covering feasibility, scalability, market size, competitive positioning, and defensibility; presented five to six opportunities and recommendations to the Investment Committee.
+- Led a team of six to develop and execute sourcing strategies for high-potential Oxford startups aligned with the fund's deep-tech investment thesis.
+
+### Energy Revolution Ventures (ERV) — London, UK
+**Energy Consultant** | July 2023 – October 2023
+
+Early-stage venture capital firm investing in clean-energy and climate-technology startups.
+
+- Segmented the global energy supply chain using a bottom-up end-use approach and developed a framework for benchmarking emerging technologies across transport, industrial, and domestic applications.
+- Identified innovation opportunities and recommended two high-potential electrochemical subsectors representing untapped venture-capital investment gaps.
 
 ## Education
 ---
-**2021 - Present**<br>
-**University of Oxford** | DPhil in Engineering Science <br>
-*Supervisor: Dr James Kwan* <br>
-• Research focus: Energy technology, acoustic cavitation, sonochemistry<br>
-•	Fully funded by EPSRC Studentship & Dervorguilla Scholarship (Balliol College)<br>
 
-**2020 - 2021**<br>
-**University of Oxford** | MSc (by research) in Inorganic Chemistry<br>
-*Supervisor: Prof Edman Tsang* <br>
-• Research focus: Energy technology, green chemistry, hydrogen production, catalysis<br>
-• Thesis title: In<sub>2</sub>Se<sub>3</sub>-based two-dimensional photocatalysts for water-splitting
+### University of Oxford — Oxford, UK
+**PhD in Chemical Engineering** | 2022–2025
 
-**2017 - 2020**<br>
-**Durham Univeristy** | BSc (Hons) in Chemistry (First Class)<br>
-•	Dissertation title: The importance of solid form in pharmaceuticals (Supervisor: Prof Jonathan Steed)<br>
-•	Awardee of Departmental Chemistry Summer Bursaries & Employability Scholarships
+- **Research:** Supervised by Professor James Kwan. Pioneered sonochemical green hydrogen and syngas production and developed novel reactor configurations for an emerging hydrogen-production technology.
+- **Publications:** Three first-authored peer-reviewed journal papers.
+- **Award:** Young Engineers Award for Innovation and Sustainability, Institution of Chemical Engineers (IChemE).
+- **Funding:** Women in STEM Scholar; Dervorguilla Scholarship, Balliol College; EPSRC DTP Scholarship.
 
-<!-- 
+### University of Oxford — Oxford, UK
+**MSc by Research in Inorganic Chemistry** | October 2020 – December 2021
 
-## Industry experiences
+- Co-authored peer-reviewed research on materials characterisation and photocatalytic hydrogen systems.
+
+### Durham University — Durham, UK
+**BSc (Hons) in Chemistry, First Class Honours** | October 2017 – June 2020
+
+- Graduated in the top 10% of the cohort.
+
+## Core skills and expertise
 ---
 
-**2020 - 2021** <br>
-**gini** | In-house Machine Learning Consultant <br>
-•	Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
+- **Ecosystem and scouting:** Technology scouting, startup evaluation, technology landscapes, supply-chain mapping, benchmarking, company profiling, and innovation-opportunity identification.
+- **Quantitative analysis:** Market forecasting, S-curve and learning-curve modelling, regression analysis, and financial-statement analysis.
+- **Energy domains:** Green and blue hydrogen, electrolysis, fuel cells, steam methane reforming (SMR), autothermal reforming (ATR), methane pyrolysis, carbon capture, utilisation and storage (CCUS), industrial decarbonisation, advanced materials, and catalysis.
+- **Languages and tools:** English (fluent), Cantonese (native), Mandarin (fluent); Microsoft Excel, MATLAB, Python, and BeautifulSoup.
 
-**2019 - Present** <br>
-**Catalyst AI** | Machine Learning Consultant <br>
-•	(AgriTech) Developed a crop growth forecasting and irrigation scheduling model for an AgriTech software company. <br>
-•	(Fashion Retail) Developed a markdown price optimisation model for seasonal sales for a fashion retail company.<br>
-
-**2017 - Present** <br>
-**Cambridge Spark** | Content Developer & Teaching Fellow <br>
-•	Designed machine learning projects (e.g SnP500 time series analysis, Kickstarter product success rate model etc.) for [*KATE*](https://cambridgespark.com/kate/), a proprietary AI-powered learning and assessment platform for upskilling in Data Science. <br>
-•	Organised bootcamps for the Applied Data Science course where I taught modules on time series, Explainable AI and recommender systems. <br>
-
--->
-
-## University involvements
+## Selected publications
 ---
 
-**Aug 2021 - Present** <br>
-**[Engineers without Borders (Oxford)](https://www.ewbox.org/)** | Project Supervisor <br>
-•	Devised and supervised 10 undergraduate engineers a two-term project on recycling technology.<br>
-
-<!-- 
-
-## Research
----
-
-• **S. L. Chau**, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
-
-• **S. L. Chau**, J.-F. Ton , J. Gonzalez, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
-
-• Pu, X., **Chau, S. L**., Dong, X., & Sejdinovic, D. (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
-
-•**Chau, Siu Lun**, Javier González, and Dino Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint arXiv:2006.03847 (2020).
-
-•**Chau, Siu Lun**, Mihai Cucuringu, and Dino Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint arXiv:2005.04035 (2020) <br>
-
--->
-
-## Language Proficiencies
----
-• English (fluent)    • Mandarin (fluent)    • Cantonese (native)
+- C. C. Y. Wong *et al.*, “Ultrasound-driven seawater splitting catalysed by TiO<sub>2</sub> for hydrogen production,” *International Journal of Hydrogen Energy* 111 (2025), 723–734. [DOI](https://doi.org/10.1016/j.ijhydene.2025.02.327)
+- C. C. Y. Wong *et al.*, “Enhancement of sonochemical production of hydroxyl radicals from pulsed cylindrically converging ultrasound waves,” *Ultrasonics Sonochemistry* 99 (2023), 106559. [DOI](https://doi.org/10.1016/j.ultsonch.2023.106559)
+- C. C. Y. Wong *et al.*, “Fluorescence-based chemical tools for monitoring ultrasound-induced hydroxyl radical production in aqueous solution and in cells,” *Chemical Communications* 59 (2023), 4328–4331. [DOI](https://doi.org/10.1039/D3CC00364G)

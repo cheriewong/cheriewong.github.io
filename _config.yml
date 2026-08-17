@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Cherie Wong"
 title_separator          : "-"
 name                     : "Cheuk Yin Cherie Wong"
-description              : "PhD student in Engineering Science"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Technology analyst specialising in hydrogen and emerging energy technologies"
+url                      : "https://cheriewong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "cheriewong/cheriewong.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cheuk Yin Cherie Wong"
+  name             : "Dr Cherie Wong"
   avatar           : "/assets/images/Application_Photograph.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in Engineering Science"
-  location         : "University of Oxford"
-  employer         : 
-  email            : "cherie.wong@eng.ox.ac.uk"
+  bio              : "Technology analyst specialising in hydrogen and emerging energy technologies"
+  location         : "London, UK"
+  employer         :
+  email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -114,14 +114,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"cheriewong"
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"cheriewongcy" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=e7ZBlIsAAAAJ" 
+  linkedin         : "cheriewongcy"
+  googlescholar    : "https://scholar.google.com/citations?user=WnWbh1IAAAAJ&hl=en"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -139,6 +139,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - cheriewong.github.io
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -326,11 +327,6 @@ defaults:
     values:
       layout: single-code
       author_profile: true
-
-
-
-
-
 
 
 

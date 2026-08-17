@@ -72,6 +72,11 @@
         </li>
       {% endif %}
 
+      <li>
+        <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
+        <span aria-label="Email c dot wong at idtechex dot com">c.wong [at] idtechex [dot] com</span>
+      </li>
+
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
@@ -162,7 +167,7 @@
 
       {% if author.googlescholar %}
         <li>
-          <a href="{{ author.gitlab }}" itemprop="sameAs">
+          <a href="{{ author.googlescholar }}" itemprop="sameAs">
             <i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar
           </a>
         </li>
