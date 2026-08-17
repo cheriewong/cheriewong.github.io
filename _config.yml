@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Cherie Wong"
 title_separator          : "-"
-name                     : "Cheuk Yin Cherie Wong"
+name                     : "Cherie Wong"
 description              : "Technology analyst specialising in hydrogen and emerging energy technologies"
 url                      : "https://cheriewong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -327,7 +327,6 @@ defaults:
     values:
       layout: single-code
       author_profile: true
-
 
 
 
