@@ -25,8 +25,8 @@ classes: wide
 
 - **Lecture presentation**, 18th Meeting of the European Society of Sonochemistry (ESS18), 27–31 May 2024, Leuven, Belgium — presented in absentia.
 - **Lecture presentation**, [186th Meeting of the Acoustical Society of America and Acoustics Week in Canada (ASA186)](https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A346/3300896/Sono-catalytic-syngas-production-by-low), 13–17 May 2024, Ottawa, Canada.
-- **Lecture presentation**, [184th Meeting of the Acoustical Society of America (ASA184)](https://pubs.aip.org/asa/jasa/article/153/3_supplement/A73/2885469/Improving-sonochemical-efficiency-by-pulsing), 8–12 May 2023, Chicago, United States.
 - **Lecture presentation**, IOP Physical Acoustics Tutorial Day, 22 September 2023, London, UK.
+- **Lecture presentation**, [184th Meeting of the Acoustical Society of America (ASA184)](https://pubs.aip.org/asa/jasa/article/153/3_supplement/A73/2885469/Improving-sonochemical-efficiency-by-pulsing), 8–12 May 2023, Chicago, United States.
 - **Lecture presentation**, IOP Physical Acoustics Tutorial Day, 8 October 2022, London, UK.
 - **Lecture presentation**, 22nd International Symposium on Nonlinear Acoustics (ISNA22), 4–8 July 2022, Oxford, UK.
 
