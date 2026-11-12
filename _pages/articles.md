@@ -8,6 +8,14 @@ classes: wide
 
 <div class="portfolio-grid">
   <article class="portfolio-card">
+    <img class="article-card__image" src="https://idtxs3.imgix.net/si/50000/5E/C0.png?w=1200&amp;h=900&amp;fit=fill&amp;bg=ffffff&amp;border=0" alt="Header figure for China's Green Hydrogen Strategy and Its Role in Global Market Dynamics">
+    <p class="portfolio-card__meta">29 October 2026</p>
+    <h2>China's Green Hydrogen Strategy and Its Role in Global Market Dynamics</h2>
+    <p>An analysis of China's leadership in green hydrogen deployment and electrolyzer manufacturing, its evolving national strategy, and the implications for technology costs, regional supply chains, and global competition.</p>
+    <a class="portfolio-card__link" href="https://www.idtechex.com/en/research-article/chinas-green-hydrogen-strategy-and-its-role-in-global-market-dynamics/35486">Read at IDTechEx →</a>
+  </article>
+
+  <article class="portfolio-card">
     <img class="article-card__image" src="https://idtxs3.imgix.net/si/50000/5C/BE.png?w=1200&amp;h=900&amp;fit=fill&amp;bg=ffffff&amp;border=0" alt="Header figure for Bridging Cost and Performance in Green Hydrogen">
     <p class="portfolio-card__meta">18 September 2026</p>
     <h2>Bridging Cost and Performance in Green Hydrogen</h2>

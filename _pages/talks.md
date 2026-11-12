@@ -8,13 +8,15 @@ classes: wide
 
 ## Upcoming
 
-- **Speaker**, Hydrogen Technology World Expo, 20–22 October 2026, Hamburg, Germany.
-- **Attending**, Data Centre World Madrid, 4–5 November 2026, Madrid, Spain.
 - **Attending**, China Hi-Tech Fair, 26–28 November 2026, Shenzhen, China.
+- **Attending**, InterBattery 2027, 10–12 March 2027, Seoul, South Korea.
 - **Attending**, China International Hydrogen Congress & Expo 2027 (CIHC 2027), 24–26 March 2027, Beijing, China.
+- **Speaker**, Hydrogen and Carbon Capture Technology Expo MENA, 8–9 June 2027, Abu Dhabi, UAE.
 
 ## Industry participation
 
+- Data Centre World Madrid, 4–5 November 2026, Madrid, Spain.
+- **Speaker**, Hydrogen Technology World Expo, 20–22 October 2026, Hamburg, Germany.
 - Royce Hydrogen Conference 2026, 22 September 2026, London, UK.
 - World Hydrogen Summit 2026 (WHS 2026), 19–21 May 2026, Rotterdam, Netherlands.
 - China International Hydrogen Congress & Expo 2026 (CIHC 2026), 25–27 March 2026, Beijing, China.
